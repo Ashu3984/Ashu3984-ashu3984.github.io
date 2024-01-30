@@ -1,7 +1,7 @@
 // set up text to print, each item in array is new line
 var aText = new Array(
     // " I am fresher and speaking of which gives me a tinch of confidence about writing the next line that I am even a good listener and fast learner as I have recently completed <b>my second year</b> and wanted to get my hands into the actual field and get to learn some real-world skills by applying them."
-    "Lorem Ipsum is simply dummy text of the printing and <b> typesetting industry</b>.Lorem Ipsum has been the industry's standard <b>dummy text ever</b> since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s <b>with the release of Letraset</b> sheets containing Lorem Ipsum."
+    "Eager to explore the intersection of Data Science and Artificial Intelligence, I am committed to leveraging<b>my analytical skills and innovative thinking in a role that combines data-driven insights with cutting-edge<b>AI research. Passionate about contributing to advanced analytics projects and AI initiatives, I aim to drive<b>impactful solutions in a progressive environment where continuous learning and collaborative exploration<b>are valued."
 );
 var iSpeed = 100; // time delay of print out
 var iIndex = 0; // start printing array at this posision
